@@ -5,7 +5,7 @@ Esta aplicacion esta Relizaa para comprender el manejo e zustand en React Native
 # Tecnologia
 
 - React Native
-- TypeScripst
+- TypeScript
 
 # Ambiente de desarrollo
 
